@@ -1,6 +1,6 @@
-# dieku4manage
+# 后台管理系统
 
-> A Vue.js project
+> 利用vue-cli 2.0 以及 iview-admin 实现，系统基本骨架
 
 ## Build Setup
 
