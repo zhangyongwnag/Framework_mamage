@@ -1,0 +1,2 @@
+webpackJsonp([4],{HXef:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",{staticStyle:{"min-height":"calc(100vh)"},on:{click:function(t){return e.$router.push({path:"/user/MemberManage"})}}},[e._v("\nHome\n  ")])},staticRenderFns:[]};var a=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("oJtS")},"data-v-9617e9ea",null);t.default=a.exports},oJtS:function(e,t){}});
+//# sourceMappingURL=4.8b03e8a8f27495b59151.js.map
